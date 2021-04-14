@@ -1,4 +1,4 @@
-ansible_root_project_ver:0.2.28
+ansible_root_project_ver:0.2.29
 terraform_ec2_ver:0.1.4
-packer_root_ver:0.1.1
+packer_root_ver:0.1.2
 us-east-1_vpc_ver:0.1.8
